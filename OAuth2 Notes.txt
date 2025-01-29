@@ -1,0 +1,11 @@
+Two OAuth2.0 flows for web -
+
+Authorization Code Flow 
+VS 
+Authorization Code Flow with Proof Key for Code Exchange (PKCE)
+
+Authorization Code Flow: Most secure option for Web App (not SPA)
+Ref: https://auth0.com/docs/authorization/flows/authorization-code-flow
+
+Authorization Code Flow with PKCE: Enhance Code Flow suitable for SPA
+ref: https://auth0.com/docs/authorization/flows/authorization-code-flow-with-proof-key-for-code-exchange-pkce

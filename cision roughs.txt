@@ -1,0 +1,121 @@
+SKU -stock keeping unit
+OOPS - Order Overage Processing System
+MSRP - Manufacture ....??
+
+AEM (front end) => SUB
+
+===============================
+Delete unused hybernate files
+Open command prompt in Admin previlege
+powercfg /h off
+
+Re-enable hybernation
+powercfg /h on
+
+Open Control Panel => Power Options => Choose what closing the lid does => Make sure it is Hybernate
+
+https://winaero.com/windows-11-hibernation-enable-disable-delete-hiberfil-sys-file/
+===============================
+
+Charles Vanek = Greg's boss
+Mark Walls = architech
+Rakesh Achar - Banglore - 17 Yr - React/Angular
+Chinmay Dalvi
+Pranjal Pohre - 5 Yr
+Jegadishchandra - opentelemetry (Hyderbad) 17 Yr - MicroSvc- 6 Months in Cision
+Ravi Numboori - Okta (Hyderbad) 17 Yr
+Haya - Toroto - Learning MicroSvc
+Anand Mani
+Somesh Patel
+Bharath
+Pavani Kashana (QA) -11 (Hyderbad) - Female
+Sekha Auta (Hyderbad) - 7 Yr
+Praveen Maduri (QA) - 10 Yr (Hyderbad)
+Sankeerthana - Female
+Duwuru Ramalinga (QA) - Banglore - 8 Yr
+Ramalinga Prabhu
+Sai Kotipalli 3.5 Yr (Hyderbad)
+Paramveer Kumar (QA) - 10 Yrs - Banglore
+Subhankar Pati - DavOps  (https://github.com/nokia/kong-oidc)
+
+
+4-5 major app
+
+OMC (Online Memeber Center) - take content from customer - All UI done with react. communicate with MicroSvc and pushing to IRIS
+MediaStudio maintaning media resources
+	- (CMM - Client Media Manager)
+	- (EMM - Editorial Media Manager - client facing)
+IRIS - review, processing, billing
+WISE - final distribution
+
+4-5 .net
+3-4  react
+CDC - Change Data Capture
+
+microsoft power automate  ~= ifttt.com   
+	=> connects applications. Example - Post a twite when upload a video on Youtube
+	=> it is available in office.com as 'Flow' or 'Power automate'
+	
+CCT equal corp Okta	(internal)
+IDM - External Okta
+	
+what is role of david droody = standard dev role
+
+GCP=> promtail => loki <= Grafana
+ELK=>ElasticSearch + FileBeat/Logstash => Kibana
+AWS=>FileBeat & Gafana
+req/res => telemetry => logkey
+finlly it will be dockerize
+
+
+Jaeger - cloud tracing UI
+sonarcube - git CI
+argo CD for - GCP
+
+IRIS is basically a workflow application
+PRN is mananged in app OMC
+CCS full form [Customer Care Specialist]
+
+
+200-299 - ok
+300-399 - redirect - go away
+400 - 499 - bad req - I made a mistake/ I messed up
+>500 - server error - You made a mistake / you messed up
+
+
+In the .yaml file for the Kubernetes object you want to create, you'll need to set values for the following fields:
+
+	- apiVersion - Which version of the Kubernetes API you're using to create this object
+	- kind - What kind of object you want to create
+	- metadata - Data that helps uniquely identify the object, including a name string, UID, and optional namespace
+	- spec - What state you desire for the object
+	
+==== Cision Business Understanding  ====
+Bill J - Gone
+Robert hamilton - Gone
+Ally - Gone
+Nagendra Yadav - Gone
+Sanjit Taneja - Gone - 100 people
+Surender Puri - Gone
+
+Greg => Charlse => Roy => Jef => Jay replaces by Michael.Amsinck => Cali (CEO)
+
+Agility (PRN - acqired in 2018, Software prod) 
+	=> C3 (Cision Communication Cloud - is a Cision Product) 
+		=> (Many platform are there - but does not matter much)
+			=> Next Gen C3 (NG-C3) (hard to build and expensive) 
+				=> Order to Cash (OtoC) - Platinum (2021)
+					=> Cision One (Start 2022 and work started early 2023)
+
+Cision ===> GTR Equity ====> Platinum Equity (aquired @2019-2020 & became private)
+					
+- Dist does not change (Liam and Heather)
+- Software is suffling a little bit There may be three Business Units. There was Cision, Dist, Brandwatch
+	=> Cision Dist (PRNews)
+	=> Cision One
+	=> Cision Software/ Brandwatch
+
+Software
+	=> Monitoring
+	=> Media Sentimal
+==== Cision Business Understanding -END ====

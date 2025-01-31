@@ -104,8 +104,8 @@ WARNING:-Adding another parameter /q will disable the prompt for confirmation
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.AccountValidation\bin\Release\Cision.AccountValidation.6.0.2.nupkg" --source "cisionGithub"
 
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Auth.Abstractions\bin\Release\Cision.Auth.Abstractions.1.0.10.nupkg" --source "cisionGithub"
-    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authentication\bin\Release\Cision.Authentication.6.1.10.nupkg" --source "cisionGithub"
-    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authentication.ACM\bin\Release\Cision.Authentication.ACM.6.1.7.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authentication\bin\Release\Cision.Authentication.6.1.12.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authentication.ACM\bin\Release\Cision.Authentication.ACM.6.1.8.nupkg" --source "cisionGithub"
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authorization\bin\Release\Cision.Authorization.6.0.22.nupkg" --source "cisionGithub"
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authorization.ACM\bin\Release\Cision.Authorization.ACM.6.0.20.nupkg" --source "cisionGithub"
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authorization.UMT\bin\Release\Cision.Authorization.UMT.6.0.5.nupkg" --source "cisionGithub"

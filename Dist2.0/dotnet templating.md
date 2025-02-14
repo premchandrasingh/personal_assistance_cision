@@ -85,8 +85,8 @@ WARNING:-Adding another parameter /q will disable the prompt for confirmation
 
 ### OMI (Order media integration)
 
-    dotnet nuget push "D:\00Projects\Dist2.0\Cision.OMI.Share\Cision.OMI.Domain.Entities\bin\Release\Cision.OMI.Domain.Entities.1.0.3.nupkg" --source "cisionGithub"
-    dotnet nuget push "D:\00Projects\Dist2.0\Cision.OMI.Share\Cision.OMI.Infrastructure.EntityConfig\bin\Release\Cision.OMI.Infrastructure.EntityConfig.1.0.5.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Dist2.0\Cision.OMI.Share\Cision.OMI.Domain.Entities\bin\Release\Cision.OMI.Domain.Entities.1.0.7.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Dist2.0\Cision.OMI.Share\Cision.OMI.Infrastructure.EntityConfig\bin\Release\Cision.OMI.Infrastructure.EntityConfig.1.0.8.nupkg" --source "cisionGithub"
 
 # Deploy nuget packages
 
@@ -104,12 +104,12 @@ WARNING:-Adding another parameter /q will disable the prompt for confirmation
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.AccountValidation\bin\Release\Cision.AccountValidation.6.0.2.nupkg" --source "cisionGithub"
 
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Auth.Abstractions\bin\Release\Cision.Auth.Abstractions.1.0.11.nupkg" --source "cisionGithub"
-    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authentication\bin\Release\Cision.Authentication.6.1.12.nupkg" --source "cisionGithub"
-    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authentication.ACM\bin\Release\Cision.Authentication.ACM.6.1.8.nupkg" --source "cisionGithub"
-    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authorization\bin\Release\Cision.Authorization.6.0.23.nupkg" --source "cisionGithub"
-    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authorization.ACM\bin\Release\Cision.Authorization.ACM.6.0.21.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authentication\bin\Release\Cision.Authentication.6.1.14.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authentication.ACM\bin\Release\Cision.Authentication.ACM.6.1.10.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authorization\bin\Release\Cision.Authorization.6.0.24.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authorization.ACM\bin\Release\Cision.Authorization.ACM.6.0.23.nupkg" --source "cisionGithub"
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.Authorization.UMT\bin\Release\Cision.Authorization.UMT.6.0.5.nupkg" --source "cisionGithub"
-    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.S2SClient\bin\Release\Cision.S2SClient.6.0.26.nupkg" --source "cisionGithub"
+    dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.S2SClient\bin\Release\Cision.S2SClient.6.0.27.nupkg" --source "cisionGithub"
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.S2SClient.MySql\bin\Release\Cision.S2SClient.MySql.6.0.8.nupkg" --source "cisionGithub"
     dotnet nuget push "D:\00Projects\Common\Cision.Auth\src\Cision.S2SClient.SqlServer\bin\Release\Cision.S2SClient.SqlServer.6.0.10.nupkg" --source "cisionGithub"
 
